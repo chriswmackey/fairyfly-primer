@@ -1,6 +1,6 @@
 # Fairyfly
 
-![Fairyfly](https://raw.githubusercontent.com/ladybug-tools/artwork/refs/heads/master/icons_bugs/png/fairyfly.png)
+![Fairyfly](https://raw.githubusercontent.com/ladybug-tools/artwork/refs/heads/master/icons_bugs/png/fairyfly-small.png)
 
 This primer provides an overview of the Fairyfly components for Grasshopper.
 
