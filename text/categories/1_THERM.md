@@ -7,3 +7,4 @@
 * ![IMAGE](../../images/icons/FF_Deconstruct_Material.png) [FF Deconstruct Material](../components/FF_Deconstruct_Material.md)
 * ![IMAGE](../../images/icons/FF_Search_Materials.png) [FF Search Materials](../components/FF_Search_Materials.md)
 * ![IMAGE](../../images/icons/FF_Solid_Material.png) [FF Solid Material](../components/FF_Solid_Material.md)
+* ![IMAGE](../../images/icons/FF_Model_Exposure.png) [FF Model Exposure](../components/FF_Model_Exposure.md)

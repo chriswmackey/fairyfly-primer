@@ -23,3 +23,4 @@
 		* [FF Deconstruct Material](text/components/FF_Deconstruct_Material.md)
 		* [FF Search Materials](text/components/FF_Search_Materials.md)
 		* [FF Solid Material](text/components/FF_Solid_Material.md)
+		* [FF Model Exposure](text/components/FF_Model_Exposure.md)

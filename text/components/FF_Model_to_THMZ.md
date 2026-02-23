@@ -12,6 +12,8 @@ Write a fairyfly Model to an THMZ file (aka. THERM Zip file), which can then be 
 A fairyfly model object possessing all geometry and therm simulation properties. 
 * ##### meshing 
 An optional MeshControl object that describes how the input model geometry shall be meshed for finite element analysis. This can be generated from the "FF Meshing Control" component. Default: uses the Simmetrix mesher with a parameter of 20. 
+* ##### exposure 
+An optional ModelExposure object that describes the model's location within a larger building. This can be generated from the "FF Model Exposure" component. Default: uses the model's location within the 3D Rhino scene to set the gravity arrow. 
 * ##### folder 
 An optional folder on this computer, into which the THMZ file will be written. 
 * ##### write [Required]
